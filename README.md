@@ -8,4 +8,4 @@ Semana next level da Rocketseat
 | :heavy_check_mark: | Rumo ao próximo nível                 | :bookmark:     | 0.2     | [GO](https://github.com/edsonjuniornarvaes/next-level-week-04/releases/tag/0.2)           |
 | :heavy_check_mark: | Contexto e componentes                | :bookmark:     | 0.3     | [GO](https://github.com/edsonjuniornarvaes/next-level-week-04/releases/tag/0.3)           |
 | :heavy_check_mark: | Melhorando a usabilidade da aplicação | :bookmark:     | 0.4     | [GO](https://github.com/edsonjuniornarvaes/next-level-week-04/releases/tag/0.4)           |
-| :heavy_check_mark: | Próximo nível com React |             | :bookmark:     | 0.5     | [GO](https://github.com/edsonjuniornarvaes/next-level-week-04/releases/tag/0.5)           |
+| :heavy_check_mark: | Próximo nível com React               | :bookmark:     | 0.5     | [GO](https://github.com/edsonjuniornarvaes/next-level-week-04/releases/tag/0.4)          |
